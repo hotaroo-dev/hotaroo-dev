@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rolo-coding
-- 👀 I’m interested in Good <Wild Rift>
+- 👀 I’m interested in Game <Wild Rift>
 - 🌱 I’m currently learning Web development
 
 <!---
