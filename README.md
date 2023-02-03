@@ -7,7 +7,7 @@
 <br />
 
 <p align="center">
-  <img width="60" src="./paw.svg" alt="cat paw" />
+  <img width="60" src="./paw.svg" alt="cat-paw" />
 </p>
 
 ## Used Technology 🔖
