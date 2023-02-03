@@ -1,8 +1,18 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hotaroo-dev/hotaroo-dev/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hotaroo-dev/hotaroo-dev/output/github-snake.svg">
-  <img alt="github snake" src="https://raw.githubusercontent.com/hotaroo-dev/hotaroo-dev/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/hotaroo-dev/hotaroo-dev/output/github-snake.svg" alt="github snake" />
 </picture>
+
+<br />
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./paw-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./paw.svg">
+    <img width="60" src="./paw-dark.svg" alt="cat paw" />
+  </picture>
+</p>
 
 ## Used Technology 🔖
 
