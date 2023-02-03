@@ -10,7 +10,7 @@
   <img width="60" src="./paw.svg" alt="cat paw" />
 </p>
 
-## Used Technology 🔖
+## Technology 🔖
 
 <p align="center">
   <img width="60" src="https://raw.githubusercontent.com/Pedro-Murilo/icons-for-readme/main/.github/firebase-icon.svg" alt="Firebase Icon" />
