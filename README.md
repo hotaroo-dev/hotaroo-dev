@@ -7,11 +7,7 @@
 <br />
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./paw-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./paw.svg">
-    <img width="60" src="./paw-dark.svg" alt="cat paw" />
-  </picture>
+  <img width="60" src="./paw.svg" alt="cat paw" />
 </p>
 
 ## Used Technology 🔖
