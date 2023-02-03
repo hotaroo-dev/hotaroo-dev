@@ -10,8 +10,6 @@
   <img width="60" src="./paw.svg" alt="cat paw" />
 </p>
 
-<br />
-
 ## Used Technology 🔖
 
 <p align="center">
